@@ -1,5 +1,5 @@
 
-# Notes App developed for Watch with SwiftUI
+# Notes App developed for Apple Watch with SwiftUI
 
 * How to get familiar with the basics of the watchOS framework
 
